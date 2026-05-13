@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+#databases
+*.db
+
+# Virtual env
+fastapivenv/
+.env/
+
+# Excel files
+*.xlsx
+
+# CSV files
+*.csv
+
+# Secrets
+.env
+config.json
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
